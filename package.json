@@ -1,0 +1,33 @@
+{
+  "name": "react-vite-tailwind-starter",
+  "version": "1.0.0",
+  "description": "A React + Vite + TailwindCSS Starter template for bootstrapping new React projects.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandiqa/react-vite-tailwind-starter.git"
+  },
+  "keywords": [
+    "React",
+    "Vite",
+    "TailwindCSS",
+    "Starter"
+  ],
+  "author": "Michael Wanyoike",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brandiqa/react-vite-tailwind-starter/issues"
+  },
+  "homepage": "https://github.com/brandiqa/react-vite-tailwind-starter#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react-refresh": "^1.1.1",
+    "vite": "^2.0.0-beta.29"
+  }
+}
